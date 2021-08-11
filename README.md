@@ -22,7 +22,7 @@ Just a idea I am working on and once I have most of the idea and concept down, I
 
 - Once SSTs are deregistered, SST is placed into cold storage for historic tracking only (Census data...whatever other data)
 
---- Each state, county and districts validate their Current Vote Eligible Persons (CVEP).
+--- All states, counties and districts validate their Current Vote Eligible Persons (CVEP).
 
 -- CVEP = {Citizen Count (CC) vs Census Data (CD) vs Vote Eligible Persons (VEP) (AGE18-120 - Deaths - Felony - (others) }
 
