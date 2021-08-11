@@ -44,7 +44,7 @@ To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 
 7. RFID-VPU activates BRVC and places AAVET on card
 
----break down tech process here later---
+---break down tech process here later with pseudo code---
 
 8. Voting Blockchain updates with a successful voting slot and waits for AAVET confirmation 
 
@@ -56,7 +56,7 @@ To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 
 11. Voting Machine builds encrypted connection to Voting Blockchain
 
----break down TTL and additional securities here---
+---break down TTL and additional securities here with pseudo code---
 
 12. Voter selects desired vote(s)
 
@@ -76,7 +76,7 @@ To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 
 19. AAVET is 100% useless for additional voting since AAVET is no longer valid
 
----break down TTL/.SEC here later---
+---break down TTL/.SEC here later with pseudo code---
 
 20. Voter removes BRVC and leaves booth
 
