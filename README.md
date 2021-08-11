@@ -2,7 +2,7 @@
 Blockchain idea for voting systems
 
 
-Just a idea I am working on...
+Just a idea I am working on and once I have most of the idea and concept down, I am hoping for somebody way smarter than me to code it. Happy to assist with my project vision on this
 
 ---Start Voting Process---
 
