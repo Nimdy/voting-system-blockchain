@@ -10,7 +10,9 @@ Just a idea I am working on and once I have most of the idea and concept down, I
 
 - States issue tokens to US Citizens (SS# = Token) = SST (Social Security Token)
 
-- SST can be registered to vote | Registrations = Voter Enabled Token (VET)
+- SST can be applied to driver license, state ID or voting cards
+
+- SST can be registered to vote | Registrated voters receive = Voter Enabled Token (VET)
 
 - VET is enable
 
@@ -18,9 +20,11 @@ Just a idea I am working on and once I have most of the idea and concept down, I
 
 - SST can be deregistered (death or gave up citizenship)
 
-- Once SSTs are deregistered, SST is placed into cold storage for historic tracking only
+- Once SSTs are deregistered, SST is placed into cold storage for historic tracking only (Census data...whatever other data)
 
-- States validates # of Citizen Count (CC) vs Census Data (CD) vs Vote Eligible Persons (VEP) (AGE18-120 - Deaths - Felony - (others) = Current Vote Eligible Persons (CVEP)
+- Each state, county and districts validate their Current Vote Eligible Persons (CVEP).
+
+-- CVEP = {Citizen Count (CC) vs Census Data (CD) vs Vote Eligible Persons (VEP) (AGE18-120 - Deaths - Felony - (others) }
 
 ---Anonymous Process---
 
