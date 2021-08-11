@@ -93,7 +93,7 @@ To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 24. Voting stats are displayed publicly for all to see.
 
 
-Here is the concept I have the network on which this will run on.
+Here is the concept I have for the network design (more to come as I draw it).
 
 The blockchain will run on the VET as a decentialized network with Validator Nodes placed in secure locations. (Maybe each state will have validator nodes... IDK... but validator nodes will be required)
 
@@ -103,4 +103,4 @@ This is designed with the thought process of a "Perfect World", I know there are
 
 However, I believe you can never move forward with new design and concepts with all the "what ifs".  This is why I design concepts for perfect world settings.  Once the design is complete, then start adding all the "What ifs" and adjust the concept accordingly.
 
-Open to ideas for adding to the concept.
+Open to ideas for adding to the concept... Just adding to this randomly as I think about. 
