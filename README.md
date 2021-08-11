@@ -18,7 +18,7 @@ Just a idea I am working on and once I have most of the idea and concept down, I
 
 - SST can be deregistered (death or gave up citizenship)
 
-- Once SSTs are deregistered, placed into cold storage for historic tracking only
+- Once SSTs are deregistered, SST is placed into cold storage for historic tracking only
 
 - States validates # of Citizen Count (CC) vs Census Data (CD) vs Vote Eligible Persons (VEP) (AGE18-120 - Deaths - Felony - (others) = Current Vote Eligible Persons (CVEP)
 
@@ -26,63 +26,63 @@ Just a idea I am working on and once I have most of the idea and concept down, I
 
 To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 
-- VET + Scrambled Prime Key Encryption (SPKE) = Anonymous Active Voter Enabled Token – (AAVET)
+- VET + Scrambled Prime Key Encryption (SPKE) = Anonymous Activated Voter Enabled Token – (AAVET)
 
 ---Explain basic voting steps--
 
-- Citizen registers to vote.
+1. Citizen registers to vote.
 
-- Citizen visits voting center
+2. Citizen visits voting center
 
-- Vote center clerks validates registration 
+3. Vote center clerks validates voter registration 
 
-- Citizen places ID on RFID Voting Process Unit (RFID-VPU) for processing
+4. Citizen places ID on RFID Voting Process Unit (RFID-VPU) for processing
 
-- VET is detected
+5. VET is detected
 
-- Vote clerk places Blank Reusable Voting Card (BRVC) on RFID-VPU
+6. Vote clerk places Blank Reusable Voting Card (BRVC) on RFID-VPU
 
-- RFID-VPU activates BRVC and places AAVET on card
+7. RFID-VPU activates BRVC and places AAVET on card
 
 ---break down tech process here later---
 
-- Voting Blockchain updates with successful voting slot and waits for AAVET
+8. Voting Blockchain updates with a successful voting slot and waits for AAVET confirmation 
 
 ---break down TTL and other security here later---
 
-- Voter is handed BRVC
+9. Voter is handed BRVC
 
-- Voter walks into booth and places BVRC on vote machine
+10. Voter walks into booth and places BVRC on vote machine
 
-- Voting Machine builds encrypted connection to Vote Blockchain
+11. Voting Machine builds encrypted connection to Voting Blockchain
 
 ---break down TTL and additional securities here---
 
-- Voter selects desired vote(s)
+12. Voter selects desired vote(s)
 
-- Voting Machine registers vote(s) asks for confirmation 
+13. Voting Machine registers vote(s) asks for confirmation 
 
-- Voter reviews vote(s) and confirms 
+14. Voter reviews vote(s) and confirms 
 
-- Voting Machine updates Voting Blockchain ledger by removing AAVET from BRVC
+15. Voting Machine updates Voting Blockchain ledger and removes AAVET from BRVC
 
-- AAVET is locked into Voting Blockchain slot and unchangeable
+16. AAVET is locked into Voting Blockchain slot and unchangeable
 
-- Voting Blockchain ledger is updated
+17. Voting Blockchain ledger is updated
 
-- Voter is provided confirmation and display of vote listed within Voting Blockchain
+18. Voter is provided confirmation and display of vote listed within Voting Blockchain
 
-- AAVET is 100% useless for additional voting since AAVET is no longer valid
+19. AAVET is 100% useless for additional voting since AAVET is no longer valid
 
 ---break down TTL/.SEC here later---
 
-- Voter removes BRVC and leaves booth
+20. Voter removes BRVC and leaves booth
 
-- Voter returns BRVC for reissue to next voter
+21. Voter returns BRVC for reissue to next voter
 
-- Vote clerk place BRVC on RFID Wipe Clean Verify System (RFID-WCVS)
+22. Vote clerk place BRVC on RFID Wipe Clean Verify System (RFID-WCVS)
 
-- BRVC is issued to next voter (rinse and repeat)
+23. BRVC is issued to next voter (rinse and repeat)
 
-- Voting stats are displayed publicly for all to see.
+24. Voting stats are displayed publicly for all to see.
 
