@@ -66,11 +66,13 @@ To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 
 15. Voting Machine updates Voting Blockchain ledger and removes AAVET from BRVC
 
-16. AAVET is locked into Voting Blockchain slot and unchangeable
+16. AAVET is locked into Voting Blockchain slot and unchangeable, Blockchain slot is closed.
 
 17. Voting Blockchain ledger is updated
 
 18. Voter is provided confirmation and display of vote listed within Voting Blockchain
+
+19. Voting Machine has option to print paper ballot for turn in to Voting Clerk. (Confirmation, audits..etc)  
 
 19. AAVET is 100% useless for additional voting since AAVET is no longer valid
 
