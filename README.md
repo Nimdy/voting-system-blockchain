@@ -88,3 +88,10 @@ To ensure anonymous and personal ID is protected Voter Enabled Tokens (VET):
 
 24. Voting stats are displayed publicly for all to see.
 
+
+
+This is designed with the thought process of a "Perfect World", I know there are many questions and concerns about mail-in voting, out of state voting, absentee and early voting..etc...etc
+
+However, I believe you can never move forward with new design and concepts with all the "what ifs".  This is why I design concepts for perfect world settings.  Once the design is complete, then start adding all the "What ifs" and adjust the concept accordingly.
+
+Open to ideas for adding to the concept.
