@@ -102,6 +102,25 @@ Additional things that could be considered when it comes to education, policy, t
 
 - Transparency: Provide a clear view of the voting process for the public, this could be done by allowing public access to the voting data on the blockchain, providing real-time vote counting, and publishing the final results on a public website.
 
+## I would rank the priorities this way:
+
+1. Voter confidence
+2. Security
+3. Transparency
+4. Compliance with regulations
+5. Voter turnout
+6. Voter education
+7. Voter registration
+8. Auditing
+9. Voter-verified paper audit trail (VVPAT)
+10. Accessibility
+11. Decentralization
+12. Smart Contracts
+13. Anonymity
+14. Interoperability
+15. Technical support
+16. Cost effectiveness
+
 
 ## High-level and very basic representation of the blockchain network:
 
