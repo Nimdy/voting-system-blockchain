@@ -1,5 +1,5 @@
-# voting-system-blockchain
-Blockchain idea for voting systems
+# voting-election-system-blockchain
+Blockchain idea for voting elections systems
 
 The voting process would begin by creating a decentralized ledger on a blockchain network to record all votes in real-time. This ledger would be maintained by a network of nodes that would work together to ensure the integrity and security of the voting process.
 
